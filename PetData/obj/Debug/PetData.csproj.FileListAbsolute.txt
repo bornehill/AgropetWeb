@@ -1,0 +1,14 @@
+C:\Desarrollo\Proyectos\AgroPet\AppWeb\PetData\bin\Debug\PetData.dll.config
+C:\Desarrollo\Proyectos\AgroPet\AppWeb\PetData\bin\Debug\PetData.dll
+C:\Desarrollo\Proyectos\AgroPet\AppWeb\PetData\bin\Debug\PetData.pdb
+C:\Desarrollo\Proyectos\AgroPet\AppWeb\PetData\obj\Debug\PetData.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Proyectos\AgroPet\AppWeb\PetData\obj\Debug\PetData.dll
+C:\Desarrollo\Proyectos\AgroPet\AppWeb\PetData\obj\Debug\PetData.pdb
+C:\Desarrollo\Proyectos\AgroPet\AppWeb\PetData\bin\Debug\AgroPET.Datos.dll
+C:\Desarrollo\Proyectos\AgroPet\AppWeb\PetData\bin\Debug\Agropet.Entidades.dll
+C:\Desarrollo\Proyectos\AgroPet\AppWeb\PetData\bin\Debug\MySql.Data.dll
+C:\Desarrollo\Proyectos\AgroPet\AppWeb\PetData\bin\Debug\InterfacesAgroPET.dll
+C:\Desarrollo\Proyectos\AgroPet\AppWeb\PetData\bin\Debug\AgroPET.Datos.pdb
+C:\Desarrollo\Proyectos\AgroPet\AppWeb\PetData\bin\Debug\Agropet.Entidades.pdb
+C:\Desarrollo\Proyectos\AgroPet\AppWeb\PetData\bin\Debug\MySql.Data.xml
+C:\Desarrollo\Proyectos\AgroPet\AppWeb\PetData\bin\Debug\InterfacesAgroPET.pdb
